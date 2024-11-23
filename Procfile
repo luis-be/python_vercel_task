@@ -1,0 +1,1 @@
+web: gunicorn python_vercel_task.wsgi
